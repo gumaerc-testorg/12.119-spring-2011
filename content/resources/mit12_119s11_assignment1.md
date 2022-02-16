@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Lab assignment to calculate the concentration of lead in two different
   samples. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/50a45aa264ac7dba40a043bc9e1de357_MIT12_119S11_assignment1.pdf
+file: /media/courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/50a45aa264ac7dba40a043bc9e1de357_MIT12_119S11_assignment1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Concentration Determination by Isotope Dilution
 uid: 50a45aa2-64ac-7dba-40a0-43bc9e1de357

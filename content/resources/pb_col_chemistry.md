@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information related to column procedure checklist.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/22f0560c0e8c747b087446be63dc345e_Pb_col_chemistry.xls
+file: /media/courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/22f0560c0e8c747b087446be63dc345e_Pb_col_chemistry.xls
 file_type: application/vnd.ms-excel
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: Pb_col_chemistry.xls
 uid: 22f0560c-0e8c-747b-0874-46be63dc345e
