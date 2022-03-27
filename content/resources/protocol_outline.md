@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 79351307-ab5a-8e4d-7a16-d623686bfcab
 resourcetype: Other
 title: Protocol_outline.xls
 uid: fe426fdd-ccac-825a-90c5-fd7bb1319b97

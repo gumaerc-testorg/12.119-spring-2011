@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 671b5d1d-59a0-9921-8b06-5040ad91826f
 resourcetype: Document
 title: Concentration Determination by Isotope Dilution
 uid: 50a45aa2-64ac-7dba-40a0-43bc9e1de357

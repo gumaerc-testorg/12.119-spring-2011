@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 79351307-ab5a-8e4d-7a16-d623686bfcab
 resourcetype: Other
 title: Pb_col_chemistry.xls
 uid: 22f0560c-0e8c-747b-0874-46be63dc345e

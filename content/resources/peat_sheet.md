@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 79351307-ab5a-8e4d-7a16-d623686bfcab
 resourcetype: Other
 title: Peat_sheet.xls
 uid: 33e4d18b-b970-9479-449b-66b202890dd3

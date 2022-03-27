@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 671b5d1d-59a0-9921-8b06-5040ad91826f
 resourcetype: Document
 title: MIT12_119S11_assignment3.pdf
 uid: ddf823e8-2633-25b3-ec51-f415703e9d79

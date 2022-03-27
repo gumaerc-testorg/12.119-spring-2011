@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e4057286-1a94-8560-2af7-c2384fd6b6e5
 resourcetype: Document
 title: Anthropogenic Geochemistry
 uid: 9ee43ae2-f812-14f8-82dc-4e3459752e60
