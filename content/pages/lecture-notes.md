@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with notes from selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -34,7 +36,7 @@ Basic geochemistry & glaciology background
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Specimen characterization with the Electron Microprobe Part 1 ([PDF - 5.1MB]({{< baseurl >}}/resources/mit12_119s11_mcrprb_prt1))
+Specimen characterization with the Electron Microprobe Part 1 ({{% resource_link 8d111df3-bb8c-cc76-abe1-bc63de0253d9 "PDF - 5.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Specimen characterization with the Electron Microprobe Part 1 ([PDF - 5.1MB]({{<
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Specimen characterization with the Electron Microprobe Part 2 ([PDF - 4.2MB]({{< baseurl >}}/resources/mit12_119s11_mcrprb_prt2))
+Specimen characterization with the Electron Microprobe Part 2 ({{% resource_link 891a61ee-4926-4e4b-6b9a-2d304fd60536 "PDF - 4.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ U/Th/Pb dating
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Anthropogenic Geochemistry ([PDF - 2.2MB]({{< baseurl >}}/resources/mit12_119s11_anthropogenic))
+Anthropogenic Geochemistry ({{% resource_link 9ee43ae2-f812-14f8-82dc-4e3459752e60 "PDF - 2.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ Anthropogenic Geochemistry ([PDF - 2.2MB]({{< baseurl >}}/resources/mit12_119s11
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Inductively Coupled Plasma: Emission and Mass Spectrometry ([PDF]({{< baseurl >}}/resources/mit12_119s11_icpms))
+Inductively Coupled Plasma: Emission and Mass Spectrometry ({{% resource_link 8c12f60e-f993-a9df-d062-bd738bb4e9e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Inductively Coupled Plasma: Emission and Mass Spectrometry ([PDF]({{< baseurl >}
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Interferences in Inductively Coupled Plasma Mass Spectrometry ([PDF]({{< baseurl >}}/resources/mit12_119s11_intrfrn_icpms))
+Interferences in Inductively Coupled Plasma Mass Spectrometry ({{% resource_link ab3525a3-865c-3745-f9fc-d5c23f248202 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

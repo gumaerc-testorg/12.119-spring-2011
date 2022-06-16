@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lab assignments for the course and supporting
+  files.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ FILES
 Protocol for Sample Treatment
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_119s11_peat_protocol))
+({{% resource_link 352152db-47fc-55c4-0217-f7a4c35c598e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +36,7 @@ Protocol for Sample Treatment
 Protocol Outline
 {{< tdclose >}}
 {{< tdopen >}}
-([XLS]({{< baseurl >}}/resources/protocol_outline))
+({{% resource_link fe426fdd-ccac-825a-90c5-fd7bb1319b97 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Protocol Outline
 Peat Sheets
 {{< tdclose >}}
 {{< tdopen >}}
-([XLS]({{< baseurl >}}/resources/peat_sheet))
+({{% resource_link 33e4d18b-b970-9479-449b-66b202890dd3 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ Peat Sheets
 Column Procedure Checklist
 {{< tdclose >}}
 {{< tdopen >}}
-([XLS]({{< baseurl >}}/resources/pb_col_chemistry))
+({{% resource_link 22f0560c-0e8c-747b-0874-46be63dc345e "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ Column Procedure Checklist
 Ion Exchange Chromatography
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_119s11_ion_exchange))
+({{% resource_link f774d660-1945-0667-c8d4-85d9957ac509 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
