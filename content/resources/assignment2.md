@@ -5,6 +5,7 @@ file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geolo
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment2.xls
 uid: 5383530d-0fbf-2593-f52b-de4ec4e3b2e5
 ---
 This resource contains the information related to problem set 2.
-

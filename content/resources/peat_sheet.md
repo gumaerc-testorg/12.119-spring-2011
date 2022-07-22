@@ -5,6 +5,7 @@ file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geolo
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Peat_sheet.xls
 uid: 33e4d18b-b970-9479-449b-66b202890dd3
 ---
 This resource contains the information related to peat sheet.
-

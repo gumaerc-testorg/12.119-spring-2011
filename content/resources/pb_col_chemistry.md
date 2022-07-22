@@ -5,6 +5,7 @@ file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geolo
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Pb_col_chemistry.xls
 uid: 22f0560c-0e8c-747b-0874-46be63dc345e
 ---
 This resource contains the information related to column procedure checklist.
-

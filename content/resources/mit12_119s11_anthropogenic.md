@@ -7,6 +7,7 @@ file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geolo
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Anthropogenic Geochemistry
 uid: 9ee43ae2-f812-14f8-82dc-4e3459752e60
 ---
 Lecture presentation on anthropogenic geochemistry, local, regional, and global scale emissions, types of emissions, and regional and global scale anthropogenic emissions.
-

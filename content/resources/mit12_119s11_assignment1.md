@@ -6,6 +6,7 @@ file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geolo
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Concentration Determination by Isotope Dilution
 uid: 50a45aa2-64ac-7dba-40a0-43bc9e1de357
 ---
 Lab assignment to calculate the concentration of lead in two different samples. 
-

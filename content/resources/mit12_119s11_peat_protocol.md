@@ -6,6 +6,7 @@ file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geolo
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT12_119S11_Peat_Protocol.pdf
 uid: 352152db-47fc-55c4-0217-f7a4c35c598e
 ---
 This resource contains the information related to protocol for sample treatment.
-

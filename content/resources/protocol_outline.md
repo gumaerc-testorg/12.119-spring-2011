@@ -5,6 +5,7 @@ file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geolo
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Protocol_outline.xls
 uid: fe426fdd-ccac-825a-90c5-fd7bb1319b97
 ---
 This resource contains the information related to protocol outline.
-
