@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to protocol for sample
   treatment.
-file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/352152db47fc55c40217f7a4c35c598e_MIT12_119S11_Peat_Protocol.pdf
+file: /ol-ocw-studio-app/courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/352152db47fc55c40217f7a4c35c598e_MIT12_119S11_Peat_Protocol.pdf
 file_size: 63454
 file_type: application/pdf
 learning_resource_types:
