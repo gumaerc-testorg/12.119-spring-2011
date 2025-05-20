@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to protocol outline.
-file: /ol-ocw-studio-app/courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/fe426fddccac825a90c5fd7bb1319b97_Protocol_outline.xls
+file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/fe426fddccac825a90c5fd7bb1319b97_Protocol_outline.xls
 file_size: 19456
 file_type: application/vnd.ms-excel
 learning_resource_types:
